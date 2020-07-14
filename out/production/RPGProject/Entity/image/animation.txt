@@ -1,0 +1,105 @@
+35
+standright
+standright 70000000
+
+standup
+standup 70000000
+
+standdown
+standdown 70000000
+
+runright
+runright1 80000000 runright2 80000000 runright3 80000000 runright4 80000000 runright5 80000000 runright6 80000000 
+
+runup
+runup1 80000000 runup2 80000000 runup3 80000000 runup4 80000000 runup5 80000000 runup6 80000000 
+
+rundown
+rundown1 80000000 rundown2 80000000 rundown3 80000000 rundown4 80000000 rundown5 80000000 rundown6 80000000 
+
+jumpright
+jumpright1 80000000 jumpright2 80000000 jumpright3 80000000 jumpright4 80000000
+
+jumpup
+jumpup1 80000000 jumpup2 80000000 jumpup3 80000000 jumpup4 80000000
+
+jumpdown
+jumpdown1 80000000 jumpdown2 80000000 jumpdown3 80000000 jumpdown4 80000000
+
+punchright
+punchright1 80000000 punchright2 80000000
+
+punchup
+punchup1 80000000 punchup2 80000000
+
+punchdown
+punchdown1 80000000 punchdown2 80000000 
+
+fireright
+fireright1 80000000 firefight2 80000000
+
+fireup
+fireup1 80000000 fireup2 80000000
+
+firedown
+firedown1 80000000 firedown2 80000000
+
+bossslideright
+bossslideright1 80000000 bossslideright2 80000000 bossslideright3 80000000 bossslideright4 80000000 bossslideright5 80000000 bossslideright6 80000000 bossslideright7 80000000 bossslideright8 80000000 bossslideright9 80000000 bossslideright10 80000000 bossslideright11 80000000 bossslideright12 80000000 bossslideright13 80000000 bossslideright14 80000000 bossslideright15 80000000 bossslideright16 80000000
+
+bossslideup
+bossslideup1 80000000 bossslideup2 80000000 bossslideup3 80000000 bossslideup4 80000000 bossslideup5 80000000 bossslideup6 80000000 bossslideup7 80000000 bossslideup8 80000000 bossslideup9 80000000 bossslideup10 80000000 bossslideup11 80000000 bossslideup12 80000000 bossslideup13 80000000 bossslideup14 80000000 bossslideup15 80000000 bossslideup16 80000000
+
+bossslidedown
+bossslidedown1 80000000 bossslidedown2 80000000 bossslidedown3 80000000 bossslidedown4 80000000 bossslidedown5 80000000 bossslidedown6 80000000 bossslidedown7 80000000 bossslidedown8 80000000 bossslidedown9 80000000 bossslidedown10 80000000 bossslidedown11 80000000 bossslidedown12 80000000 bossslidedown13 80000000 bossslidedown14 80000000 bossslidedown15 80000000 bossslidedown16 80000000
+
+bossulti
+bossulti1 100000000 bossulti2 100000000 bossulti3 100000000 bossulti4 100000000 bossulti5 100000000 bossulti6 100000000 bossulti7 100000000 bossulti8 100000000 bossulti9 100000000 bossulti9 100000000 bossulti10 100000000 bossulti11 100000000 bossulti12 100000000
+
+evilflowerleft
+evilflowerleft1 80000000 evilflowerleft2 80000000 evilflowerleft3 80000000 evilflowerleft4 80000000 evilflowerleft5 80000000
+
+evilflowerup
+evilflowerup1 80000000 evilflowerup2 80000000 evilflowerup3 80000000 evilflowerup4 80000000 evilflowerup5 80000000
+
+evilflowerdown
+evilflowerdown1 80000000 evilflowerdown2 80000000 evilflowerdown3 80000000 evilflowerdown4 80000000 evilflowerdown5 80000000
+
+eviltankrunright
+eviltankrunright1 80000000 eviltankrunright2 80000000 eviltankrunright3 80000000 eviltankrunright4 80000000
+
+eviltankrunup
+eviltankrunup1 80000000 eviltankrunup2 80000000 eviltankrunup3 80000000 eviltankrunup4 80000000
+
+eviltankrundown
+eviltankrundown1 80000000 eviltankrundown2 80000000 eviltankrundown3 80000000 eviltankrundown4 80000000
+
+eviltankfightright
+eviltankfightright1 80000000 eviltankfightright2 80000000 eviltankfightright3 80000000 eviltankfightright4 80000000 eviltankfightright5 80000000
+
+eviltankfightup
+eviltankfightup1 80000000 eviltankfightup2 80000000 eviltankfightup3 80000000 eviltankfightup4 80000000 eviltankfightup5 80000000
+
+eviltankfightdown
+eviltankfightdown1 80000000 eviltankfightdown2 80000000 eviltankfightdown3 80000000 eviltankfightdown4 80000000 eviltankfightdown5 80000000
+
+lavarunandfight
+lavarunandfight1 60000000 lavarunandfight2 60000000 lavarunandfight3 60000000 lavarunandfight4 60000000 lavarunandfight5 60000000 lavarunandfight6 60000000
+
+bossskillfirst
+bossskillfirst1 60000000 bossskillfirst2 60000000 bossskillfirst3 60000000 bossskillfirst4 60000000 bossskillfirst5 60000000 bossskillfirst6 60000000 bossskillfirst7 60000000 bossskillfirst8 60000000 bossskillfirst9 60000000 bossskillfirst10 60000000 
+
+bossskillsecond
+bossskillsecond1 60000000 bossskillsecond2 60000000 bossskillsecond3 60000000 bossskillsecond4 60000000 bossskillsecond5 60000000 bossskillsecond6 60000000 bossskillsecond7 60000000 bossskillsecond8 60000000
+
+herofireright
+herofireright1 70000000 herofireright2 70000000 herofireright3 70000000
+
+herofireup
+herofireup1 70000000 herofireup2 70000000 herofireup3 70000000
+
+herofiredown
+herofiredown1 70000000 herofiredown2 70000000 herofiredown3 70000000
+
+bossstand
+bossslideright1 80000000

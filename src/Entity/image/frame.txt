@@ -1,0 +1,1431 @@
+
+204
+
+standright
+image data/hero.png
+x 100
+y 252
+w 96
+h 124
+
+standup
+image data/hero.png
+x 100
+y 0
+w 100
+h 124
+
+standdown
+image data/hero.png
+x 104
+y 504
+w 98
+h 126
+
+runright1
+image data/hero.png
+x 100
+y 252
+w 96
+h 124
+
+runright2
+image data/hero.png
+x 309
+y 252
+w 103
+h 124
+
+runright3
+image data/hero.png
+x 416
+y 252
+w 92
+h 124
+
+runright4
+image data/hero.png
+x 508
+y 252
+w 100
+h 124
+
+runright5
+image data/hero.png
+x 608 
+y 252
+w 108
+h 124
+
+runright6
+image data/hero.png
+x 716
+y 252
+w 101
+h 124
+
+runup1
+image data/hero.png
+x 100
+y 0
+w 100
+h 124
+
+runup2
+image data/hero.png
+x 310
+y 0
+w 94
+h 124
+
+runup3
+image data/hero.png
+x 404
+y 0
+w 106
+h 124
+
+runup4
+image data/hero.png
+x 510
+y 0
+w 98
+h 124
+
+runnup5
+image data/hero.png
+x 608
+y 0
+w 107
+h 124
+
+runup6
+image data/hero.png
+x 715
+y 0
+w 100
+h 124
+
+rundown1
+image data/hero.png
+x 104
+y 504
+w 98
+h 126
+
+rundown2
+image data/hero.png
+x 302
+y 504
+w 88
+h 126
+
+rundown3
+imagae data/hero.png
+x 390
+y 504
+w 109
+h 126
+
+rundown4
+image data/hero.png
+x 499
+y 504
+w 114
+h 126
+
+rundown5
+image data/hero.png
+x 613
+y 504
+w 100
+h 126
+
+rundown6
+image data/hero.png
+x 713
+y 504
+w 105
+h 126
+
+jumpright1
+image data/hero.png
+x 100
+y 252
+w 96
+h 124
+
+jumpright2
+image data/hero.png
+x 817
+y 252
+w 113
+h 124
+
+jumpright3
+image data/hero.png
+x 930
+y 252
+w 85
+h 124
+
+jumpright4
+image data/hero.png
+x 1015
+y 252
+w 104
+h 124
+
+jumpup1
+image data/hero.png
+x 100
+y 0
+w 100
+h 124
+
+jumpup2
+image data/hero.png
+x 817
+y 0 
+w 106
+h 124
+
+jumpup3
+image data/hero.png
+x 923
+y 0 
+w 101
+h 124
+
+jumpup4
+image data/hero.png
+x 1124
+y 0
+w 100
+h 124
+
+jumpdown1
+image data/hero.png
+x 104
+y 504
+w 98
+h 126
+
+jumpdown2
+image data/hero.png
+x 816
+y 504
+w 102
+h 126
+
+jumpdown3
+image data/hero.png
+x 918
+y 504
+w 100
+h 126
+
+jumpdown4
+image data/hero.png
+x 1018
+y 504
+w 105
+h 126
+
+punchright1
+image data/hero.png
+x 1136
+y 505
+w 103
+h 128
+
+punchright2
+image data/hero.png
+x 1448
+y 505
+w 98
+h 128
+
+punchup1
+image data/hero.png
+x 1120
+y 380
+w 108
+h 123
+
+punchup2
+image data/hero.png
+x 1446
+y 380
+w 101
+h 123
+
+punchdown1
+image data/hero.png
+x 1144
+y 642
+w 100
+h 120
+
+punchdown2
+image data/hero.png
+x 1435
+y 642
+w 100
+h 120
+
+fireright1
+image data/hero.png
+x 303
+y 1017
+w 104
+h 116
+
+fireright2
+image data/hero.png
+x 115
+y 1007
+w 86
+h 126
+
+fireup1
+image data/hero.png
+x 313
+y 627
+w 100
+h 130
+
+fireup2
+image data/hero.png
+x 5
+y 1005
+w 106
+h 130
+
+firedown1
+image data/hero.png
+x 307
+y 1133
+w 85
+h 120
+
+firedown2
+image data/hero.png
+x 1
+y 1133
+w 86
+h 130
+
+bossstandright
+image data/boss.png
+x 30
+y 300
+w 150
+h 279
+
+bossstandup
+image data/boss.png
+x 13
+y 0
+w 200
+h 289
+
+bossstanddown
+image data/boss.png
+x 0
+y 589
+w 200
+h 272
+
+bossslideright1
+image data/boss.png
+x 30
+y 300
+w 150
+h 279
+
+bossslideright2
+image data/boss.png
+x 230
+y 300
+w 183
+h 279
+
+bosssilderight3
+image data/boss.png
+x 437
+y 300
+w 188
+h 279
+
+bossslideright4
+image data/boss.png
+x 659
+y 300
+w 162
+h 279
+
+bossslideright5
+image data/boss.png
+x 855
+y 300
+w 184
+h 279
+
+bossslideright6
+image data/boss.png
+x 1075
+y 300
+w 172
+h 279
+
+bossslideright7
+image data/boss.png
+x 1285
+y 300
+w 160
+h 279
+
+bossslideright8
+image data/boss.png
+x 1487
+y 300
+w 172
+h 279
+
+bossslideright9
+image data/boss.png
+x 1689
+y 300
+w 1873
+h 279
+
+bossslideright10
+image data/boss.png
+x 1913
+y 300
+w 182
+h 279
+
+bossslideright11
+image data/boss.png
+x 2139
+y 300
+w 180
+h 279
+
+bossslideright12
+image data/boss.png
+x 2335
+y 300
+w 198
+h 279
+
+bossslideright13
+image data/boss.png
+x 2549
+y 300
+w 186
+h 279
+
+bossslideright14
+image data/boss.png
+x 2739
+y 300
+w 288
+h 279
+
+bossslideright15
+image data/boss.png
+x 2739
+y 300
+w 288
+h 279
+
+bossslideright16
+image data/boss.png
+x 2739
+y 300
+w 288
+h 279
+
+bossslideup1
+image data/boss.png
+x 13
+y 0
+w 200
+h 289
+
+bossslideup2
+image data/boss.png
+x 215
+y 0
+w 200
+h 289
+
+bossslideup3
+image data/boss.png
+x 145
+y 0
+w 212
+h 289
+
+bossslideup4
+image data/boss.png
+x 641
+y 0
+w 204
+h 289
+
+bossslideup5
+image data/boss.png
+x 869
+y 0
+w 162
+h 289
+
+bossslideup6
+image data/boss.png
+x 1075
+y 0
+w 164
+h 289
+
+bossslideup7
+image data/boss.png
+x 1285
+y 0
+w 178
+h 289
+
+bossslideup8
+image data/boss.png
+x 1491
+y 0
+w 178
+h 289
+
+bossslideup9
+image data/boss.png
+x 1697
+y 0
+w 188
+h 289
+
+bossslideup10
+image data/boss.png
+x 1909
+y 0
+w 170
+h 289
+
+bossslideup11
+image data/boss.png
+x 2123
+y 0
+w 170
+h 289
+
+bossslideup12
+image data/boss.png
+x 2329
+y 0
+w 186
+h 289
+
+bossslideup13
+image data/boss.png
+x 2551
+y 0
+w 178
+h 289
+
+bossslideup14
+image data/boss.png
+x 2765
+y 0
+w 182
+h 289
+
+bossslideup15
+image data/boss.png
+x 2765
+y 0
+w 182
+h 289
+
+bossslideup16
+image data/boss.png
+x 2765
+y 0
+w 182
+h 289
+
+bossslidedown1
+image data/boss.png
+x 0
+y 589
+w 200
+h 272
+
+bossslidedown2
+image data/boss.png
+x 203
+y 589
+w 206
+h 272
+
+bossslidedown3
+image data/boss.png
+x 409
+y 589
+w 216
+h 272
+
+bossslidedown4
+image data/boss.png
+x 627
+y 589
+w 202
+h 272
+
+bossslidedown5
+image data/boss.png
+x 853
+y 589
+w 174
+h 272
+
+bossslidedown6
+image data/boss.png
+x 1069
+y 589
+w 166
+h 272
+
+bossslidedown7
+image data/boss.png
+x 1287
+y 589
+w 152
+h 272
+
+bossslidedown8
+image data/boss.png
+x 1481
+y 589
+w 178
+h 272
+
+bossslidedown9
+image data/boss.png
+x 1679
+y 589
+w 200
+h 272
+
+bossslidedown10
+image data/boss.png
+x 1901
+y 589
+w 190
+h 272
+
+bossslidedown11
+image data/boss.png
+x 2113
+y 589
+w 190
+h 272
+
+bossslidedown12
+image data/boss.png
+x 2321
+y 589
+w 196
+h 272
+
+bossslidedown13
+image data/boss.png
+x 2537
+y 589
+w 184
+h 272
+
+bossslidedown14
+image data/boss.png
+x 2743
+y 589
+w 182
+h 272
+
+bossslidedown15
+image data/boss.png
+x 2743
+y 589
+w 182
+h 272
+
+bossslidedown16
+image data/boss.png
+x 2743
+y 589
+w 182
+h 272
+
+bossulti1
+image data/boss.png
+x 0
+y 869
+w 185
+h 294
+
+bossulti2
+image data/boss.png
+x 217
+y 869
+w 185
+h 294
+
+bossulti3
+image data/boss.png
+x 435
+y 869
+w 166
+h 294
+
+bossulti4
+image data/boss.png
+x 627
+y 869
+w 200
+h 294
+
+bossulti5
+image data/boss.png
+x 849
+y 869
+w 188
+h 294
+
+bossulti6
+image data/boss.png
+x 1063
+y 869
+w 185
+h 294
+
+bossulti7
+image data/boss.png
+x 1261
+y 869
+w 222
+h 294
+
+bossulti8
+image data/boss.png
+x 1483
+y 869
+w 192
+h 294
+
+bossulti9
+image data/boss.png
+x 0
+y 869
+w 185
+h 294
+
+bossulti10
+image data/boss.png
+x 1691
+y 869
+w 192
+h 294
+
+bossulti11
+image data/boss.png
+x 1901
+y 869
+w 190
+h 294
+
+bossulti12
+image data/boss.png
+x 2115
+y 869
+w 178
+h 294
+
+evilflowerleft1
+image data/enemy2.png
+x 1331
+y 166
+w 119
+h 158
+
+evilflowerleft2
+image data/enemy2.png
+x 1449
+y 166
+w 152
+h 158
+
+evilflowerleft3
+image data/enemy2.png
+x 1600
+y 166
+w 160
+h 158
+
+evilflowerleft4
+image data/enemy2.png
+x 1761
+y 166
+w 167
+h 158
+
+evilflowerleft5
+image data/enemy2.png
+x 1964
+y 166
+w 119
+h 158
+
+evilflowerup1
+image data/enemy2.png
+x 1325
+y 0
+w 119
+h 167
+
+evilflowerup2
+image data/enemy2.png
+x 1452
+y 0
+w 120
+h 167
+
+evilflowerup3
+image data/enemy2.png
+x 1599
+y 0
+w 137
+h 167
+
+evilflowerup4
+image data/enemy2.png
+x 1761
+y 0
+w 136
+h 167
+
+evilflowerup5
+image data/enemy2.png
+x 1972
+y 0
+w 102
+h 167
+
+evilflowerdown1
+image data/enemy2.png
+x 1321
+y 325
+w 104
+h 165
+
+evilflowerdown2
+image data/enemy2.png
+x 1456
+y 325
+w 120
+h 165
+
+evilflowerdown3
+image data/enemy2.png
+x 1602
+y 325
+w 130
+h 165
+
+evilflowerdown4
+image data/enemy2.png
+x 1769
+y 325
+w 126
+h 165
+
+evilflowerdown5
+image data/enemy2.png
+x 1963
+y 325
+w 120
+h 165
+
+eviltankstand
+image data/enemy3.png
+x 11
+y 102
+w 80
+h 70
+
+eviltankrunright1
+image data/enemy3.png
+x 355
+y 100
+w 88
+h 72
+
+eviltankrunright2
+image data/enemy3.png
+x 444
+y 100
+w 88
+h 72
+
+eviltankrunright3
+image data/enemy3.png
+x 535
+y 100
+w 88
+h 72
+
+eviltankrunright4
+image data/enemy3.png
+x 621
+y 100
+w 88
+h 72
+
+eviltankrunup1
+image data/enemy3.png
+x 368
+y 1
+w 63
+h 72
+
+eviltankrunup2
+image data/enemy3.png
+x 455
+y 1
+w 66
+h 72
+
+eviltankrunup3
+image data/enemy3.png
+x 544
+y 1
+w 63
+h 72
+
+eviltankrunup4
+image data/enemy3.png
+x 629
+y 1
+w 70
+h 72
+
+eviltankrundown1
+image data/enemy3.png
+x 368
+y 191
+w 63
+h 70
+
+eviltankrundown2
+image data/enemy3.png
+x 454
+y 191
+w 67
+h 70
+
+eviltankrundown3
+image data/enemy3.png
+x 541
+y 191
+w 65
+h 70
+
+eviltankrundown4
+image data/enemy3.png
+x 628
+y 191
+w 68
+h 70
+
+eviltankfightright1
+image data/enemy3.png
+x 717
+y 83
+w 80
+h 85
+
+eviltankfightright2
+image data/enemy3.png
+x 806
+y 83
+w 82
+h 85
+
+eviltankfightright3
+image data/enemy3.png
+x 895
+y 83
+w 80
+h 85
+
+eviltankfightright4
+image data/enemy3.png
+x 982
+y 83
+w 80
+h 85
+
+eviltankfightright5
+image data/enemy3.png
+x 1073
+y 83
+w 69
+h 85
+
+eviltankfightup1
+image data/enemy3.png
+x 721
+y 0
+w 66
+h 80
+
+eviltankfightup2
+image data/enemy3.png
+x 804
+y 0
+w 73
+h 80
+
+eviltankfightup3
+image data/enemy3.png
+x 892
+y 0
+w 73
+h 80
+
+eviltankfightup4
+image data/enemy3.png
+x 981
+y 0
+w 66
+h 80
+
+eviltankfightup5
+image data/enemy3.png
+x 1074
+y 0
+w 67
+h 80
+
+eviltankfightdown1
+image data/enemy3.png
+x 719
+y 174
+w 66
+h 89
+
+eviltankfightdown2
+image data/enemy3.png
+x 803
+y 174
+w 68
+h 89
+
+eviltankfightdown3
+image data/enemy3.png
+x 890
+y 174
+w 76
+h 89
+
+eviltankfightdown4
+image data/enemy3.png
+x 983
+y 174
+w 68
+h 89
+
+eviltankfightdown5
+image data/enemy3.png
+x 1071
+y 174
+w 66
+h 89
+
+evilflystand
+image data/enemy4.png
+x 647
+y 2
+w 66
+h 76
+
+evilflyrunright1
+image data/enemy4.png
+x 7
+y 75
+w 57
+h 83
+
+evilflyrunright2
+image data/enemy4.png
+x 86
+y 75
+w 60
+h 83
+
+evilflyrunright4
+image data/enemy4.png
+x 164
+y 75
+w 61
+h 83
+
+evilflyrunup1
+image data/enemy4.png
+x 2
+y 75
+w 83
+h 77
+
+evilflyrunup2
+image data/enemy4.png
+x 89
+y 75
+w 62
+h 77
+
+evilflyrunup3
+image data/enemy4.png
+x 156
+y 75
+w 83
+h 77
+
+evilflyrundown1
+image data/enemy4.png
+x 0
+y 156
+w 77
+h 87
+
+evilflyrundown2
+image data/enemy4.png
+x 77
+y 156
+w 72
+h 87
+
+evilflyrundown3
+image data/enemy4.png
+x 154
+y 156
+w 81
+h 87
+
+evilflyfightright1
+image data/enemy4.png
+x 483
+y 90
+w 60
+h 67
+
+evilflyfightright2
+image data/enemy4.png
+x 555
+y 90
+w 81
+h 67
+
+evilflyfightup1
+image data/enemy4.png
+x 482
+y 5
+w 65
+h 73
+
+evilflyfightup2
+image data/enemy4.png
+x 553
+y 5
+w 85
+h 73
+
+evilflyfightdown1
+image data/enemy4.png
+x 481
+y 166
+w 75
+h 72
+
+evilflyfightdown2
+image data/enemy4.png
+x 556
+y 166
+w 80
+h 72
+
+lavastand
+image data/enemy5.png
+x 237
+y 473
+w 218
+h 226
+
+lavarunandfight1
+image data/enemy5.png
+x 935
+y 1418
+w 240
+h 248
+
+lavarunandfight2
+image data/enemy5.png
+x 689
+y 1418
+w 238
+h 248
+
+lavarunandfight3
+image data/enemy5.png
+x 1177
+y 1418
+w 256
+h 248
+
+lavarunandfight4
+image data/enemy5.png
+x 1445
+y 1418
+w 186
+h 248
+
+lavarunandfight5
+image data/enemy5.png
+x 1651
+y 1418
+w 244
+h 248
+
+lavarunandfight6
+image data/enemy5.png
+x 1895
+y 1418
+w 258s
+h 248
+
+bossskillfirst1
+image data/skillboss.png
+x 5
+y 481
+w 204
+h 336
+
+bossskillfirst2
+image data/skillboss.png
+x 245
+y 481
+w 292
+h 336
+
+bossskillfirst3
+image data/skillboss.png
+x 541
+y 481
+w 292
+h 336
+
+bossskillfirst4
+image data/skillboss.png
+x 833
+y 481
+w 280
+h 336
+
+bossskillfirst5
+image data/skillboss.png
+x 1113
+y 481
+w 292
+h 336
+
+bossskillfirst6
+image data/skillboss.png
+x 0
+y 809
+w 296
+h 276
+
+bossskillfirst7
+image data/skillboss.png
+x 317
+y 809
+w 200
+h 276
+
+bossskillfirst8
+image data/skillboss.png
+x 609
+y 809
+w 168
+h 276
+
+bossskillfirst9
+image data/skillboss.png
+x 929
+y 809
+w 108
+h 276
+
+bossskillfirst10
+image data/skillboss.png
+x 1225
+y 809
+w 64
+h 276
+
+bossskillsecond1
+image data/skillboss.png
+x 13
+y 1437
+w 444
+h 860
+
+bossskillsecond2
+image data/skillboss.png
+x 469
+y 1437
+w 496
+h 860
+
+bossskillsecond3
+image data/skillboss.png
+x 965
+y 1437
+w 508
+h 860
+
+bossskillsecond4
+image data/skillboss.png
+x 1473
+y 1437
+w 488
+h 860
+
+bossskillsecond5
+image data/skillboss.png
+x 2041
+y 1437
+w 416
+h 860
+
+bossskillsecond6
+image data/skillboss.png
+x 2561
+y 1437
+w 376
+h 860
+
+bossskillsecond7
+image data/skillboss.png
+x 3093
+y 1437
+w 320
+h 860
+
+bossskillsecond8
+image data/skillboss.png
+x 3649
+y 1437
+w 252
+h 860
+
+herofireright1
+image data/skill1.png
+x 1545
+y 641
+w 160
+h 172
+
+herofireright2
+image data/skill1.png
+x 2077
+y 641
+w 184
+h 172
+
+herofireright3
+image data/skill1.png
+x 1781
+y 641
+w 232
+h 172
+
+herofireup1
+image data/skill1.png
+x 1653
+y 469
+w 100
+h 148
+
+herofireup2
+image data/skill1.png
+x 2141
+y 401
+w 116
+h 120
+
+herofireup3
+image data/skill1.png
+x 1877
+y 409
+w 144
+h 132
+
+herofiredown1
+image data/skill1.png
+x 1545
+y 1157
+w 100
+h 172
+
+herofiredown2
+image data/skill1.png
+x 2005
+y 1257
+w 120
+h 1373
+
+herofiredown3
+image data/skill1.png
+x 1753
+y 1237
+w 152
+h 132
+
+evilflowerfireright1
+image data/skill1.png
+x 581
+y 641
+w 240
+h 160
+
+evilflowerfireup1
+image data/skill1.png
+x 669
+y 401
+w 144
+h 144
+
+evilflowerfiredown1
+image data/skill1.png
+x 617
+y 1069
+w 152
+h 124
+

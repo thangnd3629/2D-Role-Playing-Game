@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="audio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Dragon Tale Tutorial P08/Dragon Tale Tutorial P08/Libs/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dragon Tale Tutorial P08/Dragon Tale Tutorial P08/Libs/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Dragon Tale Tutorial P08/Dragon Tale Tutorial P08/Libs/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
